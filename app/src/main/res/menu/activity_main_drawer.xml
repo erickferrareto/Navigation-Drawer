@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_inicio"
+            android:icon="@drawable/ic_home"
+            android:title="@string/menu_inicio" />
+        <item
+            android:id="@+id/nav_caminhada"
+            android:icon="@drawable/ic_walk"
+            android:title="@string/menu_caminhada" />
+        <item
+            android:id="@+id/nav_corrida"
+            android:icon="@drawable/ic_run"
+            android:title="@string/menu_corrida" />
+        <item
+            android:id="@+id/nav_bicicleta"
+            android:icon="@drawable/ic_bike"
+            android:title="@string/menu_bicilceta" />
+        <item
+            android:id="@+id/nav_basquete"
+            android:icon="@drawable/ic_basketball"
+            android:title="@string/menu_basquete" />
+    </group>
+</menu>
