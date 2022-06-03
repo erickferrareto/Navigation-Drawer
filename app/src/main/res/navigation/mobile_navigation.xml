@@ -17,5 +17,23 @@
         android:label="@string/menu_caminhada"
         tools:layout="@layout/fragment_walk_fragment" />
 
+    <fragment
+        android:id="@+id/nav_corrida"
+        android:name="com.example.projectwithnavigationdrawer.ui.corrida.fragment_run"
+        android:label="@string/menu_corrida"
+        tools:layout="@layout/fragment_run" />
+
+    <fragment
+        android:id="@+id/nav_bicicleta"
+        android:name="com.example.projectwithnavigationdrawer.ui.bike.fragmente_bike"
+        android:label="@string/menu_bicilceta"
+        tools:layout="@layout/fragment_bike" />
+
+    <fragment
+        android:id="@+id/nav_basquete"
+        android:name="com.example.projectwithnavigationdrawer.ui.basket.basket_fragment"
+        android:label="@string/menu_basquete"
+        tools:layout="@layout/fragment_basket" />
+
 
 </navigation>

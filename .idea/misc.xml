@@ -4,10 +4,14 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/Users/User/AndroidStudioProjects/ProjectwithNavigationDrawer/app/src/main/res/layout/content_main.xml" value="0.22" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/ProjectwithNavigationDrawer/app/src/main/res/layout/fragment_basket.xml" value="0.203125" />
         <entry key="..\:/Users/User/AndroidStudioProjects/ProjectwithNavigationDrawer/app/src/main/res/layout/fragment_blank.xml" value="0.203125" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/ProjectwithNavigationDrawer/app/src/main/res/layout/fragment_fragmente_bike.xml" value="0.203125" />
         <entry key="..\:/Users/User/AndroidStudioProjects/ProjectwithNavigationDrawer/app/src/main/res/layout/fragment_inicio.xml" value="0.203125" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/ProjectwithNavigationDrawer/app/src/main/res/layout/fragment_run.xml" value="0.203125" />
         <entry key="..\:/Users/User/AndroidStudioProjects/ProjectwithNavigationDrawer/app/src/main/res/layout/fragment_walk_fragment.xml" value="0.18854166666666666" />
         <entry key="..\:/Users/User/AndroidStudioProjects/ProjectwithNavigationDrawer/app/src/main/res/menu/activity_main_drawer.xml" value="0.33" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/ProjectwithNavigationDrawer/app/src/main/res/menu/main.xml" value="0.203125" />
       </map>
     </option>
   </component>
